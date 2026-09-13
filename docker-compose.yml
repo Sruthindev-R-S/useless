@@ -1,0 +1,9 @@
+services:
+  switch-counter:
+    build: .
+    container_name: switch_counter_api
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    environment:
+      - PORT=8000

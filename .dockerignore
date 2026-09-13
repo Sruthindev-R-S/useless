@@ -1,0 +1,14 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.env
+runs
+dataset
+dataset_real
+ground_truth*
+crop_inspect
+all_switch_crops
