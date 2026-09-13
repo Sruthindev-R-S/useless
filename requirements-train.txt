@@ -1,0 +1,5 @@
+# Dependencies for model training and local development with PyTorch / Ultralytics
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision
+opencv-python

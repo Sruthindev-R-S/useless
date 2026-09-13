@@ -12,3 +12,4 @@ dataset_real
 ground_truth*
 crop_inspect
 all_switch_crops
+model/*.pt
